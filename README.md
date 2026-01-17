@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Luca-Nicolae Bostangiu 
 
-<!--
-**Mystic2005/Mystic2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student focused on **algorithms, full-stack development, AI, and data analysis**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Personal Projects
+- [Laravel + React Admin Panel](https://github.com/Mystic2005/projects) at my internship
+- [Freelance Website Development](https://electrotest.ro) - React.js
+### Python Development
+- [Graph Coloring AI](https://github.com/Mystic2005/graph-coloring-ai-search-genetic) - A* and Genetic Algorithms
+- [Iris Flower Classification](https://github.com/Mystic2005/projects) - Neural Networks
+- [Real Estate Market Analysis](https://github.com/Mystic2005/projects) - Pandas + matplotlib
+
+---
+
+## University Projects
+- [Data Structures & Algorithms in C](https://github.com/Mystic2005/uniprojects)
+- [Numerical Methods](https://github.com/Mystic2005/uniprojects)
+- [Assembly](https://github.com/Mystic2005/uniprojects)
+- [Full-stack Python Flask Shopping Website](https://github.com/Mystic2005/uniprojects/tree/main/Stolr)
+- [Team Project: IoT Security System](https://github.com/Mystic2005/iot-security-system)  
+  (API logic, hardware–software communication, database, intrusion detection)
