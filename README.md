@@ -1,4 +1,4 @@
-# Hi, I'm Luca-Nicolae Bostangiu 
+# Hi, I'm Luca Bostangiu 
 
 Computer Science student focused on **algorithms, full-stack development, AI, and data analysis**.
 
