@@ -5,11 +5,11 @@ Computer Science student focused on **algorithms, full-stack development, AI, an
 ---
 
 ## Personal Projects
-- [Laravel + React Admin Panel](https://github.com/Mystic2005/projects) at my internship
+- [Laravel + React Admin Panel](https://github.com/Mystic2005/projects)
 - [Freelance Website Development](https://electrotest.ro) - React.js
 ### Python Development
 - [Graph Coloring AI](https://github.com/Mystic2005/graph-coloring-ai-search-genetic) - A* and Genetic Algorithms
-- [Iris Flower Classification](https://github.com/Mystic2005/projects) - Neural Networks
+- [Iris Flower Classification](https://github.com/Mystic2005/iris-classification-neural-networks) - Neural Networks
 - [Real Estate Market Analysis](https://github.com/Mystic2005/projects) - Pandas + matplotlib
 
 ---
