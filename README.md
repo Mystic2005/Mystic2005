@@ -10,7 +10,7 @@ Computer Science student focused on **algorithms, full-stack development, AI, an
 ### Python Development
 - [Graph Coloring AI](https://github.com/Mystic2005/graph-coloring-ai-search-genetic) - A* and Genetic Algorithms
 - [Iris Flower Classification](https://github.com/Mystic2005/iris-classification-neural-networks) - Neural Networks
-- [Real Estate Market Analysis](https://github.com/Mystic2005/projects) - Pandas + matplotlib
+- [Real Estate Market Analysis](https://github.com/Mystic2005/projects/tree/main/Data%20visualisation) - Pandas + matplotlib
 
 ---
 
